@@ -131,5 +131,90 @@ body{
         flex: 0 0 calc(33.3% - 16px);
     }
 }
-
 /**********End of About us*****************/
+
+
+/**********Menu Section*****************/
+.menu-image{
+    min-height: 80vh;
+    background: url("../images/fries.png") center/cover fixed no-repeat;
+}
+
+.menu-text{
+    min-height: 80vh;
+    align-items: center;
+    background: red;
+    columns: auto;
+    padding: 40px 0;
+}
+
+.menu-text-center{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.menu-text h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.menu-text p{
+    margin: 20px 0;
+    line-height: 2;
+}
+
+.menu-text a{
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 13px 20px;
+    border-radius: 200px;
+    font-weight: bold;
+    background: rgb(10,10,10);
+    color: red;
+    cursor: pointer;
+    border: 2px solid #000;
+}
+
+.menu-text a:hover{
+    color: red;
+    background: white;
+    border: none;
+}
+
+@media screen and (min-width: 776px){
+    .menu{
+        display: flex;
+        background: red;
+    }
+
+    .menu-text{
+        flex: 0 0 30%;
+    }
+
+    .menu-image{
+        flex: 0 0 70%;
+        clip-path: polygon(0 0, 100% 0, 50% 100%, 0 100%);
+    }
+}
+/**********End of Menu Section*****************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
