@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="471db84c-3698-4f6e-a2b2-35f0a81831f8" name="Default Changelist" comment="Menu section done, added image, styled title and background">
-      <change afterPath="$PROJECT_DIR$/images/fries.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/onClickMenu.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1611767186762</updated>
       <workItem from="1611767187888" duration="809000" />
-      <workItem from="1611768008196" duration="4315000" />
+      <workItem from="1611768008196" duration="4943000" />
+      <workItem from="1611843614141" duration="1429000" />
     </task>
     <task id="LOCAL-00001" summary="Hero header created + artcile section for about us + made about us responsive + added icons">
       <created>1611770509652</created>
@@ -51,11 +70,29 @@
       <option name="project" value="LOCAL" />
       <updated>1611770509652</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Menu section done, added image, styled title and background">
+      <created>1611772342995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611772342995</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hero header created + artcile section for about us + made about us responsive + added icons" />
@@ -71,10 +108,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1218" y="228" width="435" height="577" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611768072332" />
-    <state x="1035" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1611770512997">
+    <state x="1035" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1611772349881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1035" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611770512997" />
+    <state x="1035" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611772349881" />
+    <state x="1244" y="437" width="383" height="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611843758699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1244" y="437" width="383" height="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611843758699" />
     <state x="1104" y="238" key="run.anything.popup" timestamp="1611767512685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
