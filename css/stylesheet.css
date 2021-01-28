@@ -472,3 +472,39 @@ body{
     }
 }
 /**********End of Card Section*****************/
+
+
+/**********Gallery Section*****************/
+#gallery{
+    padding: 40px;
+    background: white;
+}
+
+.gallery-item{
+    background: linear-gradient(rgb(241, 0, 0),rgb(255,0,0));
+}
+
+.gallery-item img{
+    display: block;
+    width: 100%;
+    opacity: 1;
+    transition: opacity 2s ease;
+}
+
+.gallery-item img:hover{
+    opacity: 0.5;
+}
+
+@media screen and (min-width: 576px){
+    #gallery-center{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 992px){
+    #gallery-center{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+/**********End of Gallery Section*****************/
